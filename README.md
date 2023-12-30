@@ -8,4 +8,4 @@ This repo represents implimentation of YOLOv5 and DeepSort in Pytorch for object
 
 # Watch Demo:
 
-https://www.youtube.com/watch?v=SnoTsGAR9aY
+https://www.linkedin.com/posts/shreyash-chawda-3a1426266_amazing-findabrtheabrcode-activity-7146780510155948032-1VB6?utm_source=share&utm_medium=member_desktop
